@@ -1,0 +1,56 @@
+C:\Users\REV FATHER ROBERT\OneDrive\Desktop\intro\trial\obj\Debug\net10.0-windows\trial.Form1.resources
+C:\Users\REV FATHER ROBERT\OneDrive\Desktop\intro\trial\obj\Debug\net10.0-windows\trial.vbproj.GenerateResource.cache
+C:\Users\REV FATHER ROBERT\OneDrive\Desktop\intro\trial\obj\Debug\net10.0-windows\trial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\REV FATHER ROBERT\OneDrive\Desktop\intro\trial\obj\Debug\net10.0-windows\trial.AssemblyInfoInputs.cache
+C:\Users\REV FATHER ROBERT\OneDrive\Desktop\intro\trial\obj\Debug\net10.0-windows\trial.AssemblyInfo.vb
+C:\Users\REV FATHER ROBERT\OneDrive\Desktop\intro\trial\obj\Debug\net10.0-windows\trial.vbproj.CoreCompileInputs.cache
+C:\Users\REV FATHER ROBERT\OneDrive\Desktop\intro\trial\bin\Debug\net10.0-windows\trial.exe
+C:\Users\REV FATHER ROBERT\OneDrive\Desktop\intro\trial\bin\Debug\net10.0-windows\trial.deps.json
+C:\Users\REV FATHER ROBERT\OneDrive\Desktop\intro\trial\bin\Debug\net10.0-windows\trial.runtimeconfig.json
+C:\Users\REV FATHER ROBERT\OneDrive\Desktop\intro\trial\bin\Debug\net10.0-windows\trial.dll
+C:\Users\REV FATHER ROBERT\OneDrive\Desktop\intro\trial\bin\Debug\net10.0-windows\trial.pdb
+C:\Users\REV FATHER ROBERT\OneDrive\Desktop\intro\trial\obj\Debug\net10.0-windows\trial.dll
+C:\Users\REV FATHER ROBERT\OneDrive\Desktop\intro\trial\obj\Debug\net10.0-windows\refint\trial.dll
+C:\Users\REV FATHER ROBERT\OneDrive\Desktop\intro\trial\obj\Debug\net10.0-windows\trial.pdb
+C:\Users\REV FATHER ROBERT\OneDrive\Desktop\intro\trial\obj\Debug\net10.0-windows\trial.genruntimeconfig.cache
+C:\Users\REV FATHER ROBERT\OneDrive\Desktop\intro\trial\obj\Debug\net10.0-windows\ref\trial.dll
+C:\Users\REV FATHER ROBERT\OneDrive\Desktop\intro\trial\obj\Debug\net10.0-windows\trial.vbproj.Up2Date
+C:\Users\REV FATHER ROBERT\OneDrive\Desktop\intro\trial\obj\Debug\net10.0-windows\trial.Resources.resources
+C:\Users\REV FATHER ROBERT\OneDrive\Desktop\intro\25bscs081 NALUGYA HILDA\bin\Debug\net10.0-windows\trial.exe
+C:\Users\REV FATHER ROBERT\OneDrive\Desktop\intro\25bscs081 NALUGYA HILDA\bin\Debug\net10.0-windows\trial.deps.json
+C:\Users\REV FATHER ROBERT\OneDrive\Desktop\intro\25bscs081 NALUGYA HILDA\bin\Debug\net10.0-windows\trial.runtimeconfig.json
+C:\Users\REV FATHER ROBERT\OneDrive\Desktop\intro\25bscs081 NALUGYA HILDA\bin\Debug\net10.0-windows\trial.dll
+C:\Users\REV FATHER ROBERT\OneDrive\Desktop\intro\25bscs081 NALUGYA HILDA\bin\Debug\net10.0-windows\trial.pdb
+C:\Users\REV FATHER ROBERT\OneDrive\Desktop\intro\25bscs081 NALUGYA HILDA\obj\Debug\net10.0-windows\trial.Form1.resources
+C:\Users\REV FATHER ROBERT\OneDrive\Desktop\intro\25bscs081 NALUGYA HILDA\obj\Debug\net10.0-windows\trial.Resources.resources
+C:\Users\REV FATHER ROBERT\OneDrive\Desktop\intro\25bscs081 NALUGYA HILDA\obj\Debug\net10.0-windows\trial.vbproj.GenerateResource.cache
+C:\Users\REV FATHER ROBERT\OneDrive\Desktop\intro\25bscs081 NALUGYA HILDA\obj\Debug\net10.0-windows\trial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\REV FATHER ROBERT\OneDrive\Desktop\intro\25bscs081 NALUGYA HILDA\obj\Debug\net10.0-windows\trial.AssemblyInfoInputs.cache
+C:\Users\REV FATHER ROBERT\OneDrive\Desktop\intro\25bscs081 NALUGYA HILDA\obj\Debug\net10.0-windows\trial.AssemblyInfo.vb
+C:\Users\REV FATHER ROBERT\OneDrive\Desktop\intro\25bscs081 NALUGYA HILDA\obj\Debug\net10.0-windows\trial.vbproj.CoreCompileInputs.cache
+C:\Users\REV FATHER ROBERT\OneDrive\Desktop\intro\25bscs081 NALUGYA HILDA\obj\Debug\net10.0-windows\trial.dll
+C:\Users\REV FATHER ROBERT\OneDrive\Desktop\intro\25bscs081 NALUGYA HILDA\obj\Debug\net10.0-windows\refint\trial.dll
+C:\Users\REV FATHER ROBERT\OneDrive\Desktop\intro\25bscs081 NALUGYA HILDA\obj\Debug\net10.0-windows\trial.pdb
+C:\Users\REV FATHER ROBERT\OneDrive\Desktop\intro\25bscs081 NALUGYA HILDA\obj\Debug\net10.0-windows\trial.genruntimeconfig.cache
+C:\Users\REV FATHER ROBERT\OneDrive\Desktop\intro\25bscs081 NALUGYA HILDA\obj\Debug\net10.0-windows\ref\trial.dll
+C:\Users\REV FATHER ROBERT\OneDrive\Desktop\intro\25bscs081 NALUGYA HILDA\obj\Debug\net10.0-windows\trial.vbproj.Up2Date
+C:\Users\REV FATHER ROBERT\OneDrive\Desktop\intro\25bscs081 NALUGYA HILDA\obj\Debug\net10.0-windows\trial.sourcelink.json
+C:\Users\REV FATHER ROBERT\OneDrive\Desktop\25bscs081 NALUGYA HILDA\bin\Debug\net10.0-windows\trial.exe
+C:\Users\REV FATHER ROBERT\OneDrive\Desktop\25bscs081 NALUGYA HILDA\bin\Debug\net10.0-windows\trial.deps.json
+C:\Users\REV FATHER ROBERT\OneDrive\Desktop\25bscs081 NALUGYA HILDA\bin\Debug\net10.0-windows\trial.runtimeconfig.json
+C:\Users\REV FATHER ROBERT\OneDrive\Desktop\25bscs081 NALUGYA HILDA\bin\Debug\net10.0-windows\trial.dll
+C:\Users\REV FATHER ROBERT\OneDrive\Desktop\25bscs081 NALUGYA HILDA\bin\Debug\net10.0-windows\trial.pdb
+C:\Users\REV FATHER ROBERT\OneDrive\Desktop\25bscs081 NALUGYA HILDA\obj\Debug\net10.0-windows\trial.Form1.resources
+C:\Users\REV FATHER ROBERT\OneDrive\Desktop\25bscs081 NALUGYA HILDA\obj\Debug\net10.0-windows\trial.Resources.resources
+C:\Users\REV FATHER ROBERT\OneDrive\Desktop\25bscs081 NALUGYA HILDA\obj\Debug\net10.0-windows\trial.vbproj.GenerateResource.cache
+C:\Users\REV FATHER ROBERT\OneDrive\Desktop\25bscs081 NALUGYA HILDA\obj\Debug\net10.0-windows\trial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\REV FATHER ROBERT\OneDrive\Desktop\25bscs081 NALUGYA HILDA\obj\Debug\net10.0-windows\trial.AssemblyInfoInputs.cache
+C:\Users\REV FATHER ROBERT\OneDrive\Desktop\25bscs081 NALUGYA HILDA\obj\Debug\net10.0-windows\trial.AssemblyInfo.vb
+C:\Users\REV FATHER ROBERT\OneDrive\Desktop\25bscs081 NALUGYA HILDA\obj\Debug\net10.0-windows\trial.vbproj.CoreCompileInputs.cache
+C:\Users\REV FATHER ROBERT\OneDrive\Desktop\25bscs081 NALUGYA HILDA\obj\Debug\net10.0-windows\trial.sourcelink.json
+C:\Users\REV FATHER ROBERT\OneDrive\Desktop\25bscs081 NALUGYA HILDA\obj\Debug\net10.0-windows\trial.dll
+C:\Users\REV FATHER ROBERT\OneDrive\Desktop\25bscs081 NALUGYA HILDA\obj\Debug\net10.0-windows\refint\trial.dll
+C:\Users\REV FATHER ROBERT\OneDrive\Desktop\25bscs081 NALUGYA HILDA\obj\Debug\net10.0-windows\trial.pdb
+C:\Users\REV FATHER ROBERT\OneDrive\Desktop\25bscs081 NALUGYA HILDA\obj\Debug\net10.0-windows\trial.genruntimeconfig.cache
+C:\Users\REV FATHER ROBERT\OneDrive\Desktop\25bscs081 NALUGYA HILDA\obj\Debug\net10.0-windows\ref\trial.dll
+C:\Users\REV FATHER ROBERT\OneDrive\Desktop\25bscs081 NALUGYA HILDA\obj\Debug\net10.0-windows\trial.vbproj.Up2Date
